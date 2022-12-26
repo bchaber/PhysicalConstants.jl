@@ -1,0 +1,4 @@
+name = "PhysicalConstants"
+uuid = "6b8bd3ec-ee6c-401c-aede-a0804f380948"
+authors = ["Bartosz Chaber <bartosz.chaber@ee.pw.edu.pl>"]
+version = "0.1.0"
